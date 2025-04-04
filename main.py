@@ -6,7 +6,7 @@ import re
 from stock_manager import StockManager
 
 # DART API 키 설정
-dart_api_key = '8c9ce5ea6e1ee72ad514ab73d923a7414affd5c6'
+dart_api_key = ''
 Odart = OpenDartReader(dart_api_key)
 dart.set_api_key(api_key=dart_api_key)  # dart_fss API 키 설정
 
